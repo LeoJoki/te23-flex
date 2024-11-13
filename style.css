@@ -14,6 +14,10 @@ body {
   margin-inline: auto;
 }
 
+.d-flex {
+  display: flex;
+}
+
 .region {
   padding-top: 3rem;
   padding-bottom: 3.6rem;
